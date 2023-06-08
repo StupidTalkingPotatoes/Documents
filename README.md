@@ -13,7 +13,8 @@
 ### 목차
 1. [시스템 구성도](#시스템-구성도)
 2. [설계 문서](#설계)
-3. [논문](#논문)
+3. [결과 화면](#결과-화면)
+4. [논문](#논문)
 
 # 시스템 구성도
 ![system_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png)
@@ -38,18 +39,21 @@
 ### 4. 주변 정류장 정보 조회
 1. 웹 서비스는 사용자의 위치를 중심으로 하여 반경 500m 내의 정류장을 보여준다.
 
-## Class Diagram
-![class_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/(%EC%B5%9C%EC%A2%85)class_diagram.jpg)
-
 ## Sequence Diagram
 ![sequence_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/(%EC%B5%9C%EC%A2%85)sequence_diagram.jpg)
-
-## E-R Diagram
-![e-r-diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/E-R%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8.jpg)
 
 ## API
 API Document 및 목업 서버 사용 안내: [link](https://documenter.getpostman.com/view/15047765/2s93ebTr39)
 
+# 결과 화면
+### 메인 화면
+![main](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC%20%EC%82%AC%EC%A7%84/1-%EB%A9%94%EC%9D%B8%ED%99%94%EB%A9%B4.png)
+### 실시간 버스 도착 정보 조회 화면
+![realtime-bus-arrival](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC%20%EC%82%AC%EC%A7%84/4-%EC%8B%A4%EC%8B%9C%EA%B0%84%EB%8F%84%EC%B0%A9%EC%A0%95%EB%B3%B4%EA%B2%B0%EA%B3%BC2.png)
+### 실시간 버스 위치 정보 조회 화면
+![realtime-bus-location](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC%20%EC%82%AC%EC%A7%84/7-%EC%8B%A4%EC%8B%9C%EA%B0%84%EC%9C%84%EC%B9%98%EC%A0%95%EB%B3%B4%EA%B2%B0%EA%B3%BC.png)
+### 경로 탐색 화면
+![path](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EA%B5%AC%ED%98%84%20%EA%B2%B0%EA%B3%BC%20%EC%82%AC%EC%A7%84/9-%EA%B2%BD%EB%A1%9C%ED%83%90%EC%83%89%EA%B2%B0%EA%B3%BC.png)
 
 # 논문
 제목: 2023 한국정보기술학회 하계 종합학술대회 논문집 - 교통약자를 위한 TAGO API 기반 저상버스 정보 시스템 </br>
