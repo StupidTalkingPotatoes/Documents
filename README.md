@@ -31,7 +31,7 @@
 1. 웹 서비스는 사용자의 위치를 중심으로 하여 반경 500m 내의 정류장을 보여준다.
 
 ## Class Diagram
-![class_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/(1%EC%B0%A8)class_diagram.jpg)
+![class_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%ED%81%B4%EB%9E%98%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/(%EC%B5%9C%EC%A2%85)class_diagram.jpg)
 
 ## Sequence Diagram
 ![sequence_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EC%8B%9C%ED%80%80%EC%8A%A4%20%EB%8B%A4%EC%9D%B4%EC%96%B4%EA%B7%B8%EB%9E%A8/(%EC%B5%9C%EC%A2%85)sequence_diagram.jpg)
