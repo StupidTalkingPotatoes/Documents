@@ -1,11 +1,19 @@
 # KIS_documents
-2023-1학기 창의설계프로젝트 관련 Document
+2023-1학기 창의설계프로젝트 관련 Document <br/>
+최종 보고서: [link](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EA%B2%B0%EA%B3%BC%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+
+### 팀원 구성
+|구분|학년|학번|이름|
+|---|---|---|---|
+|팀장|4|20180637|신예찬|
+|팀원|4|20200158|김미령|
+|팀원|4|20200370|김혜진|
+|팀원|4|20200639|신승미|
 
 ### 목차
 1. [시스템 구성도](#시스템-구성도)
 2. [설계 문서](#설계)
 3. [논문](#논문)
-4. 보고서
 
 # 시스템 구성도
 ![system_diagram](https://github.com/StupidTalkingPotatoes/KIS_documents/blob/main/%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B5%AC%EC%84%B1%EB%8F%84.png)
